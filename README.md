@@ -55,6 +55,7 @@ is a file using to validating json file
 https://transform.tools/json-to-json-schema
 ## checking the consistency of JSON schema with JSON file
 https://www.jsonschemavalidator.net/
+![image](https://github.com/user-attachments/assets/b6476f76-2ced-4475-8e06-df5a781da65e)
 ## Project 
 in library.json file we have a library that wants to store information about 3 books based on this data: (book name, author name, author's birth year, author's nationality), book publication year, book classification, book availability). Book One
 The Lord of the Rings

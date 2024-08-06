@@ -51,6 +51,7 @@ https://jsonformatter.org/
 }
 ## JSON schema
 is a file using to validating json file 
+library.schema.json contain an example based on the project below
 ## Create JSON schema
 https://transform.tools/json-to-json-schema
 ## checking the consistency of JSON schema with JSON file

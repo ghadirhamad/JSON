@@ -1,0 +1,31 @@
+{
+    "book":[
+    {
+    "name":"The Lord of the Rings",
+    "author":"John Tolkien",
+    "birth":1892,
+    "nationality":"british",
+    "publicitionDate":1954,
+    "category":"fiction,fantasy, adventure",
+    "available":true
+    },
+    {
+        "name":"And Then There Were None",
+        "author":"Agatha Christie",
+        "birth": 1890,
+        "nationality":"british",
+        "publicitionDate":1939,
+        "category":"literature, mystery",
+        "available":false
+        },
+    {
+    "name":"Heidi",
+    "author":"Johanna Spyri",
+    "birth":1827,
+    "nationality":"Swiss",
+    "publicitionDate":1880,
+    "category":"literature, children",
+    "available":true
+    }
+]
+}
